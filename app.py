@@ -55,3 +55,17 @@ if __name__ == '__main__':
 
 
 # Class Definitons for Flask Class
+
+# New Varibles to be defined]
+
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
+# New Varibles to be defined]
