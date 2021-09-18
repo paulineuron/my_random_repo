@@ -8,3 +8,9 @@ tiger
 deer
 fan
 bulb
+
+
+
+french
+spanish
+dutch
